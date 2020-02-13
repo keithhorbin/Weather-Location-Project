@@ -1,8 +1,7 @@
-# python-api-challenge
+# Weather/Location Analysis
 
 ## Summary
 
-- A homework assignment for Georgia Tech's Data Analytics Bootcamp
 - The Python code randomly selects a group of 500+ cities across the world. Then, the code collects data from the OpenWeatherMap API to create a representative model of weather across world cities. The API data is used to graph the following relationships:
   - Temperature (F) vs. Latitude
   - Humidity (%) vs. Latitude
